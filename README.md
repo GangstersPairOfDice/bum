@@ -13,3 +13,7 @@ To compile bum.c, run `cc bum.c -o bum` in your terminal shell. If no errors occ
 ## Compiling with `make`
 ---
 Typing `cc bum.c -o bum` every time you want to recompile gets tiring. The `make` program allows you to simply run `make` and it will compile the program for you.
+
+## Running `bum`
+---
+After compiling, to run `bum`, type `./bum` in your terminal shell and Enter/Return.
