@@ -6,7 +6,7 @@ C is a compiled language. That means we need to run our program through a C comp
 
 ## Compiling with `cc` (Clang)
 
-To compile bum.c, run `cc bum.c -o bum` in your terminal shell. If no errors occur, this will produce an executable named `bum`. `-o` stands for “output”, and specifies that the output executable should be named `kilo`.
+To compile bum.c, run `cc bum.c -o bum` in your terminal shell. If no errors occur, this will produce an executable named `bum`. `-o` stands for “output”, and specifies that the output executable should be named `bum`.
 
 ## Compiling with `make`
 
